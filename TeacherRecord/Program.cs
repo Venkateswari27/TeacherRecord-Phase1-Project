@@ -50,7 +50,7 @@ namespace TeacherRecord
                         Appending();
                         break;
                     case 3:
-                        Console.WriteLine("Deleting a line havimg the given id in text file \n ");
+                        Console.WriteLine("Deleting a line having the given id in text file \n ");
                         Delete();
                         break;
                     case 4:
@@ -62,7 +62,7 @@ namespace TeacherRecord
                         SortById();
                         break;
                     case 6:
-                        Console.WriteLine("Seaching data in file according to the provided id\n");
+                        Console.WriteLine("Searching data in file according to the provided id\n");
                         Searching();
                         break;
 
